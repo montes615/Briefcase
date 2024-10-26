@@ -1,0 +1,84 @@
+# Developer Skills
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![License](https://img.shields.io/github/license/montes615/Briefcase)
+
+Welcome to the **Developer Skills Showcase** repository! This repository contains a collection of Python-based exercises and solutions in Jupyter Notebooks. Each notebook demonstrates different coding skills, problem-solving abilities.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Skills and Topics Covered](#skills-and-topics-covered)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [preparing](#preparing-enviroment)
+  - [Running the Notebooks](#running-the-notebooks)
+- [License](#license)
+- [Fountain](#fountain)
+
+## Overview
+
+This project is a curated set of coding exercises intended to showcase my development skills in Python. Each exercise demonstrates my understanding of concepts such as algorithms, data manipulation and more. The repository is organized with Jupyter Notebooks for interactive exploration and explanation.
+
+## Skills and Topics Covered
+
+- **Data Structures**: Lists, Dictionaries, Sets, and Tuples
+- **Algorithms**: Sorting, Searching, Recursion
+- **Problem Solving**: Hands-on coding exercises and real-world scenarios
+
+## Getting Started
+
+Follow these steps to set up the project on your local machine.
+
+### Prerequisites
+
+Make sure you have the following installed:
+- Python 3.x
+- Jupyter Notebook
+- `virtualenv` (if needed, install with `pip install virtualenv`)
+
+### Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/username/repository.git
+   cd repository
+
+### Preparing enviroment
+
+2. **Create and activate a virtual enviroment**:
+    ```Linux - Mac | bash
+    python3 -m venv venv
+    source venv/bin/activate
+
+    ```Windows | PowerShell
+    python -m venv venv
+    ./venv/Scripts/activate.ps1
+
+3. **Install dependencies**
+    ```Linux - Mac | bash
+    pip3 install -r requirements.txt
+
+    ```Windows | PowerShell
+    pip install -r requirements.txt
+
+### Running the notebooks
+
+3. **Run**:
+    ```VS Code
+    Activate the virtual enviroment on VS Code, select the script and run it
+
+    ```Jupyter
+    Launch a jupyter notebook.
+    jupyter notebook
+
+## Licence
+
+This proyect is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details
+
+
+## Fountain
+
+The excercise exposed in this repository are taken from [FOUNTAIN](https://retosdeprogramacion.com/ejercicios/)
