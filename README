@@ -17,6 +17,7 @@ Welcome to the **Developer Skills Showcase** repository! This repository contain
   - [Running the Notebooks](#running-the-notebooks)
 - [License](#license)
 - [Fountain](#fountain)
+- [Other proyects](#other-proyects)
 
 ## Overview
 
@@ -82,3 +83,7 @@ This proyect is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Fountain
 
 The excercise exposed in this repository are taken from [FOUNTAIN](https://retosdeprogramacion.com/ejercicios/)
+
+## Other proyects
+
+[connect4](https://github.com/montes615/Connect4Proyect)
